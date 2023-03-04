@@ -18,7 +18,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [LINK](https://github.com/yusufva/2-Frontend_mentor-product_preview_card.git)
-- Live Site URL: [LINK]()
+- Live Site URL: [LINK](https://frontend-mentor-product-preview-card-phi.vercel.app/)
 
 ## My process
 
