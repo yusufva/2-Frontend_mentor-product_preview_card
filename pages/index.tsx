@@ -4,6 +4,7 @@ import styles from '@/styles/Home.module.css'
 import Card from '@/Components/Widget/Card'
 import CardMobile from '@/Components/Widget/CardMobile'
 import { useEffect, useState } from 'react';
+import Footer from '@/Components/Widget/Footer'
 
 
 export default function Home() {
@@ -37,6 +38,7 @@ export default function Home() {
       <main className=' w-full h-screen flex justify-center items-center bg-[#f2ebe3]'>
         {widthLayer <675 ? (<CardMobile/>) : (<Card/>) }
       </main>
+      <Footer/>
     </>
   )
 }
