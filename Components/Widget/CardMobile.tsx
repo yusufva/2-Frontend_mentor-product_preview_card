@@ -11,11 +11,11 @@ export default function Card() {
             <div className='grid-rows-4 gap-0 mx-6'>
               <br />
                 <article>
-                    <h3 className=' font-montserrat font-medium text-base mt-3 text-[#6c7289] '>P E R F U M E</h3>
-                    <h1 className=' font-fraunces font-bold text-3xl mt-5'>Gabrielle Essence Eau De Parfum</h1>
+                    <h1 className=' font-montserrat font-medium text-base mt-3 text-[#6c7289] '>P E R F U M E</h1>
+                    <h2 className=' font-fraunces font-bold text-3xl mt-5'>Gabrielle Essence Eau De Parfum</h2>
                     <p className=' font-montserrat font-medium text-[14px] mt-5 text-[#6c7289] '>A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of Chanel</p>
                     <div className='columns-2'>
-                      <h1 className=' font-fraunces font-bold text-3xl mt-5 text-[#3c8067] '>$149.99</h1><br /><h3 className=' line-through text-[#6c7289] text-sm mt-1'>$169.99</h3>
+                      <h2 className=' font-fraunces font-bold text-3xl mt-5 text-[#3c8067] '>$149.99</h2><br /><h3 className=' line-through text-[#6c7289] text-sm mt-1'>$169.99</h3>
                     </div>
 
                 </article>
