@@ -16,7 +16,7 @@ export default function Home() {
     resizeWindow();
     window.addEventListener("resize", resizeWindow);
 
-  }, [widthLayer.windowWidth])
+  }, [widthLayer])
 
   return (
     <>
