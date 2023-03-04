@@ -1,4 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend Mentor - Product preview card component solution
+
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+
+
+### Links
+
+- Solution URL: [LINK](https://github.com/yusufva/2-Frontend_mentor-product_preview_card.git)
+- Live Site URL: [LINK]()
+
+## My process
+
+### Built with
+
+- [Next.js](https://nextjs.org/) - React framework
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
+
+## Author
+
+- Website - [Yusuf Valent]()
+- Frontend Mentor - [@yusufva](https://www.frontendmentor.io/profile/yusufva)
 
 ## Getting Started
 
